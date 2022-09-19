@@ -57,6 +57,6 @@ body {
 }
 
 .user-info {
-  min-width: 400px;
+  min-width: calc(100vw - 30px);
   width: 100%;
 }
